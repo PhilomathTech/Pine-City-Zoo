@@ -9,8 +9,8 @@ A fully responsive and engaging zoo website created as part of the **FNB App Aca
 
 ## 📸 Screenshots
 ![home page](https://github.com/user-attachments/assets/4e514aa6-6202-4b6c-b1ab-182c359b871d)
+![animals info](https://github.com/user-attachments/assets/e95bf8d6-3625-4877-98e4-fc3575a36ac3)
 
-![Animals Info](screenshots/animal-section.png)
 ![Places Info](screenshots/homepage.png)
 ![Weather Info](screenshots/animal-section.png)
 ![Feedback Page](screenshots/homepage.png)
