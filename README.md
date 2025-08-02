@@ -20,7 +20,7 @@ A fully responsive and engaging zoo website created as part of the **FNB App Aca
 
 ## 🛠️ Technologies Used
 - HTML5  
-- CSS3 (Responsive Design with Flex/Grid)  
+- CSS3 (Responsive Design with Flex/Grid)
 - [Hosting]: Netlify 
 
 ---
